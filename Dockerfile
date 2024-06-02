@@ -7,7 +7,7 @@ RUN pip install -r requirements.txt
 
 # Kopiowanie plików aplikacji
 COPY app.py .
-COPY model.pkl .
+COPY model.py .
 
 # Ustawienie punktu wejścia
 CMD ["python", "app.py"]

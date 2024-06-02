@@ -1,1 +1,4 @@
-Flask joblib numpy scikit-learn 
+Flask
+joblib
+numpy
+scikit-learn
