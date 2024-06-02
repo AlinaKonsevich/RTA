@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Wczytanie modelu
-model = joblib.load('model.pkl')
+model = joblib.load('C:/Users/alina/perceptron-docker/model.pkl')
 
 app = Flask(__name__)
 
